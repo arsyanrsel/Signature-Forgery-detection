@@ -1,0 +1,8 @@
+tensorflow>=2.11
+numpy
+matplotlib
+scikit-learn
+opencv-python
+imutils
+Pillow
+tensorflow-addons

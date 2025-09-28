@@ -1,0 +1,18 @@
+SIGNATURE_FORGERY_PROJECT/
+├── Dataset/
+│   ├── test/
+│   ├── train/
+│   └── val/
+├── models/
+├── Training/
+│   ├── __pycache__/
+│   ├── autoencoder.py
+│   ├── capsnet_train.py
+│   ├── capsnet.py
+│   ├── custom_cnn.py
+│   ├── Evaluation.py
+│   ├── resnet_svm.py
+│   ├── resnet_pca.py
+│   ├── siamese_vgg.py
+│   └── train.py
+└── Requirements.txt
